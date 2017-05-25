@@ -5,6 +5,13 @@ Barcamp / ad-hoc unconference
 
 ## Introduction
 
+## State of the Art Discussion
+
+- Data Humanism, the Revolution will be Visualized. https://medium.com/@giorgialupi/data-humanism-the-revolution-will-be-visualized-31486a30dbfb
+- The death of interactive infographics? https://medium.com/@dominikus/the-end-of-interactive-visualizations-52c585dcafcb
+- In Defense of Interactive Graphics https://www.vis4.net/blog/posts/in-defense-of-interactive-graphics/
+- How do we know that? https://vimeo.com/209294413
+- If Data Visualization is So Hot, Why Are People Leaving? https://medium.com/visualizing-the-field/why-people-leave-their-data-viz-jobs-be1a7ab5dddc
 
 ## The good, the bad and the ugly (do's, don'ts and fails)
 
@@ -41,6 +48,10 @@ Barcamp / ad-hoc unconference
 - If the moon were only one pixel http://joshworth.com/dev/pixelspace/pixelspace_solarsystem.html
 - XKCD http://xkcd.com/657/large/
 - Processing https://vimeo.com/23753834 https://processing.org/
+- Dear Data http://www.dear-data.com/
+- Fantasy Map Generator https://bl.ocks.org/Azgaar/b845ce22ea68090d43a4ecfb914f51bd
+- The Art of Arrangement http://www.johngrimwade.com/blog/2017/04/17/organized/
+
 
 
 ## Social Network Analysis
@@ -77,13 +88,35 @@ Kibana lets you visualize your Elasticsearch data and navigate the Elastic Stack
 
 Vega is a visualization grammar, a declarative format for creating, saving, and sharing interactive visualization designs. With Vega you can describe data visualizations in a JSON format, and generate interactive views using either HTML5 Canvas or SVG. https://github.com/vega/vega
 
+## Tableau
+
+https://www.tableau.com
+
 ## Google Data Studio
 
 Google Data Studio (beta) turns your data into informative dashboards and reports that are easy to read, easy to share, and fully customizable. Dashboarding allows you to tell great data stories to support better business decisions. https://www.google.com/analytics/data-studio/
 
+## Redash
+
+Connect to any data source, easily visualize and share your data https://redash.io/
 
 ----
 
 # Data
 
 - Gapminder http://www.gapminder.org/data/
+
+
+----
+
+# More
+
+- A data visualization reading (and watching) list http://www.chadskelton.com/2017/04/data-visualization-reading-list.html
+- Amananda Cox Keynote OpenVisConf 2017 https://www.youtube.com/watch?v=0L1tGo-DvD0
+- Mike Bostock Keynote OpenVisConf 2017 https://www.youtube.com/watch?v=lNbqfQlGkzc
+- Tragic Design http://www.tragicdesign.com/
+
+
+
+
+
