@@ -34,6 +34,7 @@ Barcamp / ad-hoc unconference
 - Aaron Koblin Flight Patterns http://www.aaronkoblin.com/work/flightpatterns/
 - Tweet Map https://www.mapd.com/demos/tweetmap/
 - deck.gl https://uber.github.io/deck.gl/#/
+- mapbox https://www.mapbox.com/
 
 ## Data Journalism
 
