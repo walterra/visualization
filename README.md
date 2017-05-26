@@ -1,6 +1,15 @@
-# Data Visualization Barcamp / ad-hoc unconference
+# HCI/Dataviz Barcamp / ad-hoc unconference
 
-# Topic Suggestions
+# Presentations
+
+- Facebook Live API Demo, Visualizing Reactions
+- Maps & Globes
+- deck.gl
+- Visual Data Studio
+- Power BI
+- Mapbox
+
+# Topics
 
 ## State of the Art Discussion
 
@@ -38,14 +47,14 @@
 
 - Tell-all telephone http://www.zeit.de/datenschutz/malte-spitz-data-retention
 - New York Times Cascade http://nytlabs.com/projects/cascade.html
-
+- Miles of ice collapsing into the sea https://www.nytimes.com/interactive/2017/05/18/climate/antarctica-ice-melt-climate-change.html
 
 ## Art & Experimental
 
 - Wikipedia Delete Discussions http://notabilia.net
 - The Sheep Market http://www.thesheepmarket.com/
 - If the moon were only one pixel http://joshworth.com/dev/pixelspace/pixelspace_solarsystem.html
-- XKCD http://xkcd.com/657/large/
+- XKCD Movie Timelines http://xkcd.com/657/large/
 - Processing https://vimeo.com/23753834 https://processing.org/
 - Dear Data http://www.dear-data.com/
 - Fantasy Map Generator https://bl.ocks.org/Azgaar/b845ce22ea68090d43a4ecfb914f51bd
@@ -58,20 +67,16 @@
 - Gephi is the leading visualization and exploration software for all kinds of graphs and networks. Gephi is open-source and free. http://gephi.org
 - Facebook Network Analysis Using Gephi https://www.slideshare.net/persuasion/facebook-network-analysis-using-gephi-11390089
 
-## d3.js - Introduction
+## d3.js
 
 - enter/update/exit https://bl.ocks.org/mbostock/3808218
-- https://github.com/mbostock/d3/wiki/Gallery
-- https://www.dashingd3js.com/d3js-first-steps
-
-## d3.js - Let's make a bubble map
-
-- http://bost.ocks.org/mike/bubble-map
+- Gallery https://github.com/mbostock/d3/wiki/Gallery
+- First Steps Tutorial https://www.dashingd3js.com/d3js-first-steps
+- Let's make a bubble map http://bost.ocks.org/mike/bubble-map
 
 ## Data Visualization + Science Fiction
 
 - "The Past 100 Years of the Future" http://bamanda.com/wp-content/uploads/2012/10/AM+A.SciFI+HCI.eBook_.LM10Oct12.pdf
-- Beispiele wie sich Datenvisualisierung und Sci-Fi gegenseitig beeinflussen
 
 ## Apache Zeppelin
 
@@ -103,7 +108,6 @@
 
 - Gapminder http://www.gapminder.org/data/
 - Geonames http://www.geonames.org/
-
 
 ----
 
