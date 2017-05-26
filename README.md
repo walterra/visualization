@@ -1,9 +1,6 @@
-# Datenvisualisierung
-Barcamp / ad-hoc unconference
+# Data Visualization Barcamp / ad-hoc unconference
 
-# Topics
-
-## Introduction
+# Topic Suggestions
 
 ## State of the Art Discussion
 
@@ -53,8 +50,6 @@ Barcamp / ad-hoc unconference
 - Fantasy Map Generator https://bl.ocks.org/Azgaar/b845ce22ea68090d43a4ecfb914f51bd
 - The Art of Arrangement http://www.johngrimwade.com/blog/2017/04/17/organized/
 
-
-
 ## Social Network Analysis
 
 - OrgOrgChart: Visualisierung von Veränderungen innerhalb einer Organisation. OrgOrgChart zeigt Daten aus SAP HR in einem organischen Netzwerk. https://www.youtube.com/watch?v=mkJ-Uy5dt5g
@@ -70,7 +65,7 @@ Barcamp / ad-hoc unconference
 
 ## d3.js - Let's make a bubble map
 
-bost.ocks.org/mike/bubble-map
+- http://bost.ocks.org/mike/bubble-map
 
 ## Data Visualization + Science Fiction
 
@@ -79,31 +74,31 @@ bost.ocks.org/mike/bubble-map
 
 ## Apache Zeppelin
 
-A web-based notebook that enables interactive data analytics. You can make beautiful data-driven, interactive and collaborative documents with SQL, Scala and more. https://zeppelin.apache.org/
+- A web-based notebook that enables interactive data analytics. You can make beautiful data-driven, interactive and collaborative documents with SQL, Scala and more. https://zeppelin.apache.org/
 
 ## ElasticSearch + Kibana 
 
-Kibana lets you visualize your Elasticsearch data and navigate the Elastic Stack, so you can do anything from learning why you're getting paged at 2:00 a.m. to understanding the impact rain might have on your quarterly numbers. https://www.elastic.co/products/kibana
+- Kibana lets you visualize your Elasticsearch data and navigate the Elastic Stack, so you can do anything from learning why you're getting paged at 2:00 a.m. to understanding the impact rain might have on your quarterly numbers. https://www.elastic.co/products/kibana
 
 ## vega 
 
-Vega is a visualization grammar, a declarative format for creating, saving, and sharing interactive visualization designs. With Vega you can describe data visualizations in a JSON format, and generate interactive views using either HTML5 Canvas or SVG. https://github.com/vega/vega
+- Vega is a visualization grammar, a declarative format for creating, saving, and sharing interactive visualization designs. With Vega you can describe data visualizations in a JSON format, and generate interactive views using either HTML5 Canvas or SVG. https://github.com/vega/vega
 
-## Tableau
+## Tableau 
 
-https://www.tableau.com
+- https://www.tableau.com
 
 ## Google Data Studio
 
-Google Data Studio (beta) turns your data into informative dashboards and reports that are easy to read, easy to share, and fully customizable. Dashboarding allows you to tell great data stories to support better business decisions. https://www.google.com/analytics/data-studio/
+- Google Data Studio (beta) turns your data into informative dashboards and reports that are easy to read, easy to share, and fully customizable. Dashboarding allows you to tell great data stories to support better business decisions. https://www.google.com/analytics/data-studio/
 
 ## Redash
 
-Connect to any data source, easily visualize and share your data https://redash.io/
+- Connect to any data source, easily visualize and share your data https://redash.io/
 
 ----
 
-# Data
+# Data Sources
 
 - Gapminder http://www.gapminder.org/data/
 - Geonames http://www.geonames.org/
@@ -111,7 +106,7 @@ Connect to any data source, easily visualize and share your data https://redash.
 
 ----
 
-# More
+# Further Reading / More
 
 - A data visualization reading (and watching) list http://www.chadskelton.com/2017/04/data-visualization-reading-list.html
 - Amananda Cox Keynote OpenVisConf 2017 https://www.youtube.com/watch?v=0L1tGo-DvD0
