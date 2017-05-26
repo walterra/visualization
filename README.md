@@ -40,7 +40,9 @@
 - Aaron Koblin Flight Patterns http://www.aaronkoblin.com/work/flightpatterns/
 - Tell-all telephone http://www.zeit.de/datenschutz/malte-spitz-data-retention
 - Tweet Map https://www.mapd.com/demos/tweetmap/
-- deck.gl https://uber.github.io/deck.gl/#/
+- deck.gl 
+ - https://uber.github.io/deck.gl/#/
+ - http://www.kdnuggets.com/2016/06/engineering-intelligence-data-visualization-uber.html
 - mapbox https://www.mapbox.com/
 
 ## Data Journalism
