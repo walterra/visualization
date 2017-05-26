@@ -106,6 +106,7 @@ Connect to any data source, easily visualize and share your data https://redash.
 # Data
 
 - Gapminder http://www.gapminder.org/data/
+- Geonames http://www.geonames.org/
 
 
 ----
