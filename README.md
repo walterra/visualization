@@ -71,7 +71,7 @@
 
 ## d3.js
 
-- enter/update/exit https://bl.ocks.org/mbostock/3808218
+- enter/update/exit https://jsfiddle.net/a8rr0dnk/
 - Gallery https://github.com/mbostock/d3/wiki/Gallery
 - First Steps Tutorial https://www.dashingd3js.com/d3js-first-steps
 - Let's make a bubble map http://bost.ocks.org/mike/bubble-map
