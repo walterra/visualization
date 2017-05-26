@@ -35,7 +35,7 @@
 
 ## Data Journalism
 
-- Tell-all telephone http://www.zeit.de/datenschutz/malte-spitz-data-retention
+- Tell-all telephone http://www.zeit.de/datenschutz/malte-spitz-data-retention
 - New York Times Cascade http://nytlabs.com/projects/cascade.html
 
 
