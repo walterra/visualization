@@ -1,13 +1,8 @@
-# HCI/Dataviz Barcamp / ad-hoc unconference
+# HCI/Visualization / ad-hoc unconference
 
 # Presentations
 
-- Facebook Live API Demo, Visualizing Reactions
-- Maps & Globes
-- deck.gl
-- Visual Data Studio
-- Power BI
-- Mapbox
+...
 
 # Topics
 
@@ -40,10 +35,13 @@
 - Aaron Koblin Flight Patterns http://www.aaronkoblin.com/work/flightpatterns/
 - Tell-all telephone http://www.zeit.de/datenschutz/malte-spitz-data-retention
 - Tweet Map https://www.mapd.com/demos/tweetmap/
+- Electricity Map https://www.electricitymap.org/?page=map&solar=false&remote=true&wind=false
 - deck.gl 
  - https://uber.github.io/deck.gl/#/
  - http://www.kdnuggets.com/2016/06/engineering-intelligence-data-visualization-uber.html
 - mapbox https://www.mapbox.com/
+- mapbox + unity https://blog.mapbox.com/create-a-world-in-minutes-with-the-latest-maps-sdk-for-unity-b4f4455b3883
+- mapbox + unity + ARKit https://datadesign.studio/work/dataviz-in-ar/
 
 ## Data Journalism
 
@@ -80,9 +78,17 @@
 
 - "The Past 100 Years of the Future" http://bamanda.com/wp-content/uploads/2012/10/AM+A.SciFI+HCI.eBook_.LM10Oct12.pdf
 
+## Data Visualization + Comics
+
 ## Apache Zeppelin
 
 - A web-based notebook that enables interactive data analytics. You can make beautiful data-driven, interactive and collaborative documents with SQL, Scala and more. https://zeppelin.apache.org/
+
+## Interactive Documents
+
+-- Observable (js/d3 workpads) https://beta.observablehq.com/
+-- A markup language for interactive documents. https://idyll-lang.org/
+
 
 ## ElasticSearch + Kibana 
 
@@ -92,17 +98,18 @@
 
 - Vega is a visualization grammar, a declarative format for creating, saving, and sharing interactive visualization designs. With Vega you can describe data visualizations in a JSON format, and generate interactive views using either HTML5 Canvas or SVG. https://github.com/vega/vega
 
-## Tableau 
+## Other Software 
 
-- https://www.tableau.com
+- Tableau https://www.tableau.com
+- Google Data Studio turns your data into informative dashboards and reports that are easy to read, easy to share, and fully customizable. Dashboarding allows you to tell great data stories to support better business decisions. https://www.google.com/analytics/data-studio/
+- Redash: Connect to any data source, easily visualize and share your data https://redash.io/
 
-## Google Data Studio
+## WebGL Frameworks
 
-- Google Data Studio (beta) turns your data into informative dashboards and reports that are easy to read, easy to share, and fully customizable. Dashboarding allows you to tell great data stories to support better business decisions. https://www.google.com/analytics/data-studio/
-
-## Redash
-
-- Connect to any data source, easily visualize and share your data https://redash.io/
+- Google Facets https://pair-code.github.io/facets/
+- regl - declarative and stateless webgl http://regl.party/
+- Stardust.js https://stardustjs.github.io/examples/
+- WebVR Starter Kit https://github.com/povdocs/webvr-starter-kit
 
 ----
 
@@ -110,6 +117,7 @@
 
 - Gapminder http://www.gapminder.org/data/
 - Geonames http://www.geonames.org/
+- Kaggle https://www.kaggle.com/ 
 
 ----
 
