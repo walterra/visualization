@@ -1,1 +1,0 @@
-- http://www.uliwestphal.de/elephas-anthropogenus/index.html
