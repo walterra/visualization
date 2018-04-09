@@ -1,9 +1,5 @@
 # HCI/Visualization / ad-hoc unconference
 
-# Presentations
-
-...
-
 # Topics
 
 ## State of the Art Discussion
