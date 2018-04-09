@@ -1,10 +1,4 @@
-# HCI/Visualization / ad-hoc unconference
-
-# Presentations
-
-...
-
-# Topics
+# Visualization Resources
 
 ## State of the Art Discussion
 
@@ -86,9 +80,8 @@
 
 ## Interactive Documents
 
--- Observable (js/d3 workpads) https://beta.observablehq.com/
--- A markup language for interactive documents. https://idyll-lang.org/
-
+- Observable (js/d3 workpads) https://beta.observablehq.com/
+- A markup language for interactive documents. https://idyll-lang.org/
 
 ## ElasticSearch + Kibana 
 
@@ -127,8 +120,7 @@
 - Amananda Cox Keynote OpenVisConf 2017 https://www.youtube.com/watch?v=0L1tGo-DvD0
 - Mike Bostock Keynote OpenVisConf 2017 https://www.youtube.com/watch?v=lNbqfQlGkzc
 - Tragic Design http://www.tragicdesign.com/
-
-
-
-
-
+- D3.js in Action (Elijah Meeks) https://www.manning.com/books/d3js-in-action-second-edition
+- The Design of Everyday Things (Don Norman) https://www.perseusbooks.com/titles/don-norman/the-design-of-everyday-things/9780465072996/
+- The Big Book of Dashboards (Steve Wexler et al) http://bigbookofdashboards.com/
+- The Functional/Truthful Art (Alberto Cairo) http://www.thefunctionalart.com
