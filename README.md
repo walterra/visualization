@@ -82,8 +82,8 @@
 
 ## Interactive Documents
 
--- Observable (js/d3 workpads) https://beta.observablehq.com/
--- A markup language for interactive documents. https://idyll-lang.org/
+- Observable (js/d3 workpads) https://beta.observablehq.com/
+- A markup language for interactive documents. https://idyll-lang.org/
 
 
 ## ElasticSearch + Kibana 
