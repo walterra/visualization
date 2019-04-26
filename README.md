@@ -4,6 +4,8 @@ https://github.com/walterra/visualization
 
 ## State of the Art Discussion
 
+- [The purpose of visualization is insight, not pictures: An interview with visualization pioneer Ben Shneiderman](https://medium.com/multiple-views-visualization-research-explained/the-purpose-of-visualization-is-insight-not-pictures-an-interview-with-visualization-pioneer-ben-beb15b2d8e9b)
+- [3rd Wave Data Visualization](https://towardsdatascience.com/3rd-wave-data-visualization-824c5dc84967)
 - [What Does “Visualization Literacy” Mean, Anyway?](https://medium.com/multiple-views-visualization-research-explained/what-does-visualization-literacy-mean-anyway-22f3b3badc0)
 - [Data Humanism, the Revolution will be Visualized](https://medium.com/@giorgialupi/data-humanism-the-revolution-will-be-visualized-31486a30dbfb)
 - [The death of interactive infographics?](https://medium.com/@dominikus/the-end-of-interactive-visualizations-52c585dcafcb)
@@ -29,7 +31,7 @@ https://github.com/walterra/visualization
 - [Tell-all telephone](http://www.zeit.de/datenschutz/malte-spitz-data-retention)
 - [Tweet Map](https://www.mapd.com/demos/tweetmap/)
 - [Electricity Map](https://www.electricitymap.org/?page=map&solar=false&remote=true&wind=false)
-- deck.gl 
+- deck.gl
   - https://uber.github.io/deck.gl/#/
   - http://www.kdnuggets.com/2016/06/engineering-intelligence-data-visualization-uber.html
 - [mapbox](https://www.mapbox.com/)
@@ -58,6 +60,14 @@ https://github.com/walterra/visualization
 - NodeXL Basic is a free, open-source template for Microsoft® Excel® 2007, 2010, 2013 and 2016 that makes it easy to explore network graphs.  With NodeXL, you can enter a network edge list in a worksheet, click a button and see your graph, all in the familiar environment of the Excel window. https://nodexl.codeplex.com/
 - Gephi is the leading visualization and exploration software for all kinds of graphs and networks. Gephi is open-source and free. http://gephi.org
 - Facebook Network Analysis Using Gephi https://www.slideshare.net/persuasion/facebook-network-analysis-using-gephi-11390089
+
+## Data Flows
+
+- [The 2018 React JS RoadMap](https://hackernoon.com/the-2018-react-js-roadmap-4d0a43814c02)
+
+## Machine Learning
+
+- [Tutorial Session: Visualization for Machine Learning](https://www.facebook.com/nipsfoundation/videos/203530960558001/) presented by Fernanda Viegas and Martin Wattenberg
 
 ## d3.js
 
@@ -91,6 +101,7 @@ https://github.com/walterra/visualization
 
 - Vega is a visualization grammar, a declarative format for creating, saving, and sharing interactive visualization designs. With Vega you can describe data visualizations in a JSON format, and generate interactive views using either HTML5 Canvas or SVG. https://github.com/vega/vega
 - Vega Voyager 2 - Recommendation-Powered Visualization Tool for Data Exploration https://github.com/vega/voyager
+  - Related video, presentation by Jeff Heer: ["Constructing Charts and Graphs"](https://www.youtube.com/watch?v=ouIFSDQwkQM)
 
 ## Other Software 
 
@@ -112,6 +123,21 @@ https://github.com/walterra/visualization
 - [Gapminder](http://www.gapminder.org/data/)
 - [Geonames](http://www.geonames.org/)
 - [Kaggle](https://www.kaggle.com/)
+- [Data Is Plural — Structured Archive](https://docs.google.com/spreadsheets/d/1wZhPLMCHKJvwOkP4juclhjFgqIY8fQFMemwKL2c64vk/htmlview#)
+
+----
+
+# Dataviz + Climate Change
+
+- [We are running out of ...](https://twitter.com/moritz_stefaner/status/1090179242686595073)
+- [What's really warming the world?](https://www.bloomberg.com/graphics/2015-whats-warming-the-world/)
+- [Simulation zeigt Gedeih und Verderb der Alpengletscher](https://www.spektrum.de/video/simulation-zeigt-gedeih-und-verderb-der-alpengletscher/1606514)
+
+----
+
+# Awards
+
+- [Information is Beautiful Awards 2018: The Winners](https://www.informationisbeautifulawards.com/news/323-information-is-beautiful-awards-2018-the-winners)
 
 ----
 
@@ -125,3 +151,8 @@ https://github.com/walterra/visualization
 - [The Design of Everyday Things (Don Norman)](https://www.perseusbooks.com/titles/don-norman/the-design-of-everyday-things/9780465072996/)
 - [The Big Book of Dashboards (Steve Wexler et al)](http://bigbookofdashboards.com/)
 - [The Functional/Truthful Art (Alberto Cairo)](http://www.thefunctionalart.com)
+- ["A bunch of people are asking what resources I recommend to start learning graphics programming. So you get a thread on it!"](https://twitter.com/sehurlburt/status/884470105320468481)
+
+# Courses
+
+- [CSE512 Data Visualization (Spring 2018)](https://courses.cs.washington.edu/courses/cse512/18sp/)
