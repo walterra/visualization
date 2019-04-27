@@ -28,6 +28,7 @@ https://github.com/walterra/visualization
 
 ## Maps & Globes
 
+- [INFO.GRAPHICS Flight Patterns](https://data.info.graphics/flight-patterns/)
 - [Earth](https://earth.nullschool.net)
 - [Air Traffic Management](http://nats.aero/blog/2014/03/europe-24-air-traffic-data-visualisation/)
 - [Flightradar24](https://www.flightradar24.com)
