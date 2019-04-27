@@ -21,6 +21,10 @@ https://github.com/walterra/visualization
 - Correlation vs. Causation
 - "Clutter and confusion are not attributes of information they are failures of design."--Edward Tufte
 - [Chart Junk](http://en.wikipedia.org/wiki/Chartjunk)
+- Charts That Lie
+  - [Five Ways to Lie with Charts](http://nautil.us/issue/19/illusions/five-ways-to-lie-with-charts)
+  - [Ihaka lectures 2018: Visual trumpery: How charts lie — and how they make us smarter](https://www.youtube.com/watch?v=Cd046xZhO_8)
+  - [Alberto Cairo - How Charts Lie: Getting Smarter About Visual Information](https://www.youtube.com/watch?v=Low28hx4wyk)
 
 ## Maps & Globes
 
